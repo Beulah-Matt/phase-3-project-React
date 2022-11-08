@@ -10,7 +10,12 @@
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.4.3",
     "react-scripts": "5.0.1",
+<<<<<<< HEAD
     "styled-components": "^5.3.6",
+=======
+    "react-slick": "^0.29.0",
+    "slick-carousel": "^1.8.1",
+>>>>>>> 14b054150e1aea6787a84befda388d16d0f181ce
     "web-vitals": "^2.1.4"
   },
   "scripts": {
