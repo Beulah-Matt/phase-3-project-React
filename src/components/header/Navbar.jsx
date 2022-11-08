@@ -37,7 +37,7 @@ export default function Navbar({brandName,cartItems}) {
       >
        
         <ul>
-          <li><Link to ="/checkout">My Cart:{cartItems}</Link></li>
+          <li><Link to="/checkout"> My Cart :{cartItems}</Link></li>
           <li> <a><Link to="/">Home</Link></a>
           </li>
           <li>

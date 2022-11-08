@@ -12,6 +12,10 @@ return (
             margin:'auto'
         }}>
         <h1>Checkout/ Order</h1>
+    <form>
+        <input placeholder="Enter your name"/>
+        <input placeholder="Enter your Email"/>
+    </form>
     <div>{cartItems.length === 0 && <div>Order Form is Empty</div>}</div>
     <ul style={{display:'block',padding:'20px',margin:'10px',listStyle:'none'}}></ul>
         {
